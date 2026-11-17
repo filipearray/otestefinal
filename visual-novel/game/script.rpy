@@ -21,7 +21,7 @@ label start:
     n "Sexta-feira, 23h47. Ponto de onibus vazio, poste piscando."
     n "Voce e a Mari acabaram de sair do show. Os celulares estao com 3% de bateria."
 
-    m "Mano. Se a gente perder o 405, a gente ta fudida."
+    m "Mano. Se a gente perder o 405, a gente ta ferrada."
     m "O proximo e so as 5 da manha."
 
     menu:
@@ -29,7 +29,7 @@ label start:
             $ coragem += 1
             m "Tu fala isso toda vez e toda vez a gente corre."
         "Bora correr pro outro ponto?":
-            m "Com esse tenis? Nem fodendo."
+            m "Com esse tenis? Nem pensar."
 
     n "Um farol aparece no fim da rua. Um onibus velho, letreiro apagado."
 
@@ -102,7 +102,7 @@ label final_casa:
     n "Voce pisca. Ta na porta de casa. Sao exatamente 00h00."
     n "A Mari ta do seu lado, olhando o celular: 100% de bateria."
 
-    m "Que porra acabou de acontecer."
+    m "O que acabou de acontecer?"
     m "...Amanha a gente pega ele de novo?"
 
     n "Voce sorri. Porque sabe que vai."
@@ -119,7 +119,7 @@ label final_praia:
     d "Precisa de coragem pra deixar o caminho decidir."
 
     m "Mano. Eu nem gosto de praia."
-    m "Mas isso aqui e lindo pra caralho."
+    m "Mas isso aqui e lindo demais."
 
     n "Voces tres sentam na areia. O onibus espera, paciente, motor ligado."
     n "Pela primeira vez em muito tempo, ninguem ta com pressa de ir embora."
