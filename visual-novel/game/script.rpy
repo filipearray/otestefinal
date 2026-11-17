@@ -19,7 +19,7 @@ label start:
     scene bg ponto with fade
 
     n "Sexta-feira, 23h47. Ponto de onibus vazio, poste piscando."
-    n "Voce e a Mari acabaram de sair do show. Os celulares estao com 3% de bateria."
+    n "Voce e a Mari acabaram de sair do show. Os celulares estao com 3%% de bateria."
 
     m "Mano. Se a gente perder o 405, a gente ta ferrada."
     m "O proximo e so as 5 da manha."
@@ -100,7 +100,7 @@ label final_casa:
     scene bg casa with fade
 
     n "Voce pisca. Ta na porta de casa. Sao exatamente 00h00."
-    n "A Mari ta do seu lado, olhando o celular: 100% de bateria."
+    n "A Mari ta do seu lado, olhando o celular: 100%% de bateria."
 
     m "O que acabou de acontecer?"
     m "...Amanha a gente pega ele de novo?"
